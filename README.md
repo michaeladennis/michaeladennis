@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hello, I'm Michaela Dennis!
 
+I am currently a graduate student at UC Santa Barbara pursuing a Master of Environmental Data Science Degree.
+
+### Before Bren
+I graduated from UCLA in 2026 with a Bachelor of Science degree in Environmental Science with a concentration in Environmental Systems and Society. I participated in the [Forests and Global Change Lab](https://sites.lifesci.ucla.edu/eeb-ordway/) where I worked on research projects using remotely sensed data investigating land use change in the Congo Basin. Ebony Project [presentation](https://www.ioes.ucla.edu/project/the-ebony-project-in-cameroon/)
 <!--
 **michaeladennis/michaeladennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
