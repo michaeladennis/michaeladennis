@@ -10,8 +10,8 @@ I graduated from UCLA in 2026 with a B.S. in Environmental Science with a concen
 - In my free time I love to read, be active, and explore the outdoors! 🌱
 
 ### How to reach me
-email: michaeladenn@gmail.com \n
-linkedin: www.linkedin.com/in/michaela-dennis-629a92275
+- email: michaeladenn@gmail.com
+- linkedin: www.linkedin.com/in/michaela-dennis-629a92275
 <!--
 **michaeladennis/michaeladennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
