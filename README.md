@@ -1,4 +1,4 @@
-## Hello, I'm Michaela Dennis!
+## Hi, I'm Michaela Dennis!🌿
 
 I am currently a graduate student at UC Santa Barbara pursuing a Master of Environmental Data Science Degree.
 
